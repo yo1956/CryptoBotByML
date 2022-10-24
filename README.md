@@ -7,4 +7,4 @@
 
 デプロイ：Docker
 
-モデル作成部分のJupyterNotebookは非公開
+プライベートリポジトリで開発していたが、モデル作成部分のJupyterNotebook以外は公開しておく
