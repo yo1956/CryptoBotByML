@@ -5,6 +5,8 @@
 
 稼働監視：LineSDK
 
+稼働環境：AwS EC2
+
 デプロイ：Docker
 
 プライベートリポジトリで開発していたが、モデル作成部分のJupyterNotebook以外は公開しておく
