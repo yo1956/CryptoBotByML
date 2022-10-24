@@ -5,6 +5,8 @@
 
 稼働監視：LineSDK
 
+稼働環境：AWS EC2
+
 デプロイ：Docker
 
-モデル作成部分のJupyterNotebookは非公開
+プライベートリポジトリで開発していたが、モデル本体およびモデル作成部分のJupyterNotebook以外は公開しておく
