@@ -5,7 +5,7 @@
 
 稼働監視：LineSDK
 
-稼働環境：AwS EC2
+稼働環境：AWS EC2
 
 デプロイ：Docker
 
