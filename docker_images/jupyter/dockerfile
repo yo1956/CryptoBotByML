@@ -31,8 +31,6 @@ RUN rm -rf /home/jovyan/.cache
 
 USER jovyan
 
-# my
-# これ書いてみたけどinstallされてなかったっぽいからdockerfileでやりたいならちゃんと調べなかんかも
 #RUN pip install --no-cache-dir \
 #    jupyterlab_vim \
 #    jupyterlab-vimrc \
